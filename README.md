@@ -1,3 +1,5 @@
+[Copied from [thekarangoel/Projects](https://github.com/thekarangoel/Projects/blob/master/README-scratch.md)]
+
 Martyr2’s Mega Project List
 ========
 
